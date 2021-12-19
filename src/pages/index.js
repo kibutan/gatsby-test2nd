@@ -9,6 +9,7 @@ const IndexPage = () => {
     <main>
       <Layout pageTitle={"Home page"}>
         <p>I'm making this by following the Gatsby Tutorial.</p>
+        <p>https://www.gatsbyjs.com/docs/tutorial/part-4/#task-create-some-mdx-blog-posts</p>
         <StaticImage alt="Mountain" src="..\images\mountain.jpg" />
       </Layout>
     </main>
