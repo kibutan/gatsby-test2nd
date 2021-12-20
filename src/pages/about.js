@@ -1,6 +1,6 @@
 //Step 1 :import react
 import * as React from "react"
-import { Link } from 'gatsby'
+// import { Link } from 'gatsby'
 import Layout from "../components/layout"
 
 //Step2 : Define your component
